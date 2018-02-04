@@ -7,11 +7,10 @@ class Movimiento
     public $id;
     public $idUsuario;
     public $mensaje;
+
+    public static function registrarMovimiento($idUsuario, $mensaje)
+    {
+
+    }
 }
-
-function registrarMovimiento($idUsuario, $mensaje)
-{
-
-}
-
 ?>

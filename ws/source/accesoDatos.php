@@ -3,7 +3,6 @@ class AccesoDatos
 {
     private static $ObjetoAccesoDatos;
     private $objetoPDO;
- 
     private function __construct()
     {
         try { 
@@ -16,7 +15,6 @@ class AccesoDatos
             die();
         }
     }
- 
     public function RetornarConsulta($sql)
     { 
         return $this->objetoPDO->prepare($sql); 
@@ -25,7 +23,6 @@ class AccesoDatos
     { 
         return $this->objetoPDO->lastInsertId(); 
     }
- 
     public static function dameUnObjetoAcceso()
     { 
         if (!isset(self::$ObjetoAccesoDatos)) {          
@@ -33,7 +30,6 @@ class AccesoDatos
         } 
         return self::$ObjetoAccesoDatos;        
     }
- 
      // Evita que el objeto se pueda clonar
     public function __clone()
     { 
