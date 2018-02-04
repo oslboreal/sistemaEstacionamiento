@@ -12,6 +12,7 @@ class Automovil
     public $patente;
     public $color;
     public $marca;
+    public $especial; // Si es especial se le brindará un lugar reservado.
     // Un automovil será instanciado con los datos a la hora de crear un nuevo registro.
     // Los datos del automovil serán serializados en un JSON en el campo "vehiculo" del registro. 
     public function Automovil($pat, $col, $mar)

@@ -7,20 +7,40 @@
         que realizar una consulta en cualquier otra tabla. 
 */
 
-class Empleado
+include_once 'accesoDatos.php';
 
+class Empleado
 {
     /* CAMPOS. */
     public $id;
     public $usuario;
     public $password;
     public $estado;
+    public $ultimoInicio;
 
-    public function Automovil($pat, $col, $mar)
+    public function Automovil($id, $usuario, $estado, $password)
     {
-        $this->patente = $patente;
-        $this->color = $col;
-        $this->marca = $mar;
+        $this->id = $id;
+        $this->usuario = $usuario;
+        $this->estado = $estado;
+        $this->password = $password;
+    }
+
+    /* ALTA - BAJA - MODIFICACION */
+
+    public static function altaEmpleado()
+    {
+
+    }
+
+    public static function bajaEmpleado()
+    {
+
+    }
+
+    public static function modificarEmpleado()
+    {
+
     }
 }
 

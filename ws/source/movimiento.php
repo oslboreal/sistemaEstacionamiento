@@ -6,6 +6,7 @@ class Movimiento
 {
     public $id;
     public $idUsuario;
+    public $date; 
     public $mensaje;
 
     public static function registrarMovimiento($idUsuario, $mensaje)
