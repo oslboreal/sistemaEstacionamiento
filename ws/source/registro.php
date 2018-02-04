@@ -11,7 +11,7 @@ class Registro
     public $color;
     public $marca;
     public $especial;
-    ///// 
+    // Datos propios de registro
     public $dateIngreso;
     public $ususarioIngreso;
     public $dateSalida;
@@ -36,21 +36,6 @@ class Registro
     public static function isParked()
     {
         // Retorna true si un vehiculo está estacionado, caso contrario false. 
-    }
-
-    public static function cantReservados()
-    {
-        // Consulta a la base de datos la cantidad de espacios reservados que hay. 
-    }
-
-    public static function cantPisos()
-    {
-        // Consulta a la base de datos la cantidad de pisos que hay
-    }
-
-    public static function cantCocheras()
-    {
-        // Consulta a la base de datos la cantidad de cocheras que hay
     }
 
     public static function calcularCostoEstadia()

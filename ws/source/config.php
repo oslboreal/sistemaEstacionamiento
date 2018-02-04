@@ -20,6 +20,21 @@ class Config
         // Trae la información de configuración del estacionamiento de la base de datos.
     }
 
+    public static function cantReservados()
+    {
+        // Consulta a la base de datos la cantidad de espacios reservados que hay. 
+    }
+
+    public static function cantPisos()
+    {
+        // Consulta a la base de datos la cantidad de pisos que hay
+    }
+
+    public static function cantCocheras()
+    {
+        // Consulta a la base de datos la cantidad de cocheras que hay
+    }
+
     // Se le podría agregar. 
     // Modificar cada uno de los parámetros y actualizar llamando nuevamente a cargar datos. 
 }
