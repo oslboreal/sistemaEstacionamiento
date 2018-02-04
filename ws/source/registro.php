@@ -6,7 +6,12 @@ class Registro
 {
     /* CAMPOS */
     public $id;
-    public $automovil;
+    // Datos del auto almacenado. || De esta manera evitamos crear una TABLA para autos.
+    public $patente; // Patente del auto almacenado
+    public $color;
+    public $marca;
+    public $especial;
+    ///// 
     public $dateIngreso;
     public $ususarioIngreso;
     public $dateSalida;
