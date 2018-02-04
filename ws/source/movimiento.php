@@ -9,7 +9,10 @@ class Movimiento
     public $date; 
     public $mensaje;
 
-    // Método middleware, ver bien donde va.
+    /* METODOS INTERNOS - HERRAMIENTAS */
+
+
+    /* METODOS EXTERNOS - WS */
     public static function registrarMovimiento($idUsuario, $mensaje)
     {
 

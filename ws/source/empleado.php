@@ -26,7 +26,11 @@ class Empleado
         $this->ultimoInicio = $ultimoInicio;
     }
 
-    /* ALTA - BAJA - MODIFICACION */
+
+    /* METODOS INTERNOS - HERRAMIENTAS */
+
+
+    /* METODOS EXTERNOS - WS */
 
     public static function altaEmpleado()
     {

@@ -19,7 +19,11 @@ class Registro
     public $costoFinal;
     public $estado; // Pendiente (El auto aún no cerró la cuenta) || Finalizado.. (Se calcula el costo final.)
 
-    /* METODOS PRINCIPALES */
+
+    /* METODOS INTERNOS - HERRAMIENTAS*/
+
+
+    /* METODOS EXTERNOS - WS */
     public static function estacionarVehiculo()
     {
 

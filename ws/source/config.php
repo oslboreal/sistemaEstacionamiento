@@ -9,6 +9,12 @@ class Config
     static public $costoCompleta;
     static public $lugaresReservados;
 
+
+    /* METODOS INTERNOS - HERRAMIENTAS */
+
+
+    /* METODOS EXTERNOS - WS */
+
     public function Config()
     {
         // Método encargado de traer todos los datos de configuracion del sistema. 

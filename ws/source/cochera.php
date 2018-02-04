@@ -8,12 +8,19 @@ class cochera
     public $id;
     public $especial;
     public $ocupada; // True ocupada - False desocupada.
+    public $vecesdeuso;
+    public $idregistro;
+    public $piso;
 
+    /* METODOS INTERNOS - HERRAMIENTAS */
     public static function cocheraLibre($auto)
     {
         // Si el auto es especial, retorna un id de cochera reservada. 
         // Si el auto es común, retorna un id de cochera comun.
         // Si no hay espacio, retorna -1.
     }
+
+    /* METODOS EXTERNOS - WS */
+
 }
 ?>

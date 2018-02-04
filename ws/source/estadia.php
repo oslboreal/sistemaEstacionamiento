@@ -10,6 +10,11 @@ class Estadia
     public $costoMedia;
     public $costoCompleta;
 
+
+    /* METODOS INTERNOS - HERRAMIENTAS */
+
+
+    /* METODOS EXTERNOS - WS */
     public static function calcularCostos()
     {
         // En función de la cantidad de horas y los diferentes costos que se obtienen de la base de datos
