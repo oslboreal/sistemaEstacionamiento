@@ -9,7 +9,7 @@
 */
 
 // Llamada a las bibliotecas necesarias. 
-require_once '..\vendor\autoload.php';  
+require_once '../vendor/autoload.php';
 // Interfaces.
 use \Psr\Http\Message\ServerRequestInterface as Request;
 use \Psr\Http\Message\ResponseInterface as Response;
@@ -23,6 +23,6 @@ $app->get('/', function (Request $request, Response $response) {
     return $response;
 });
 
-
+$app->run();
 
 ?>
