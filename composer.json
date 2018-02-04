@@ -1,0 +1,14 @@
+{
+    "name": "vendor/composer",
+    "type": "library",
+    "require": {
+        "slim/slim": "^3.9"
+    },
+    "authors": [
+        {
+            "name": "oslboreal",
+            "email": "oslboreal@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

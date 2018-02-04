@@ -17,30 +17,32 @@ class Empleado
     public $password;
     public $estado;
     public $ultimoInicio;
+    public $rol;
 
-    public function Automovil($id, $usuario, $estado, $password)
+    public function Empleado($id, $usuario, $estado, $password, $ultimoInicio, $rol)
     {
         $this->id = $id;
         $this->usuario = $usuario;
         $this->estado = $estado;
         $this->password = $password;
+        $this->ultimoInicio = $ultimoInicio;
     }
 
     /* ALTA - BAJA - MODIFICACION */
 
     public static function altaEmpleado()
     {
-
+        // Agrega empleado a la base de datos. 
     }
 
     public static function bajaEmpleado()
     {
-
+        // Elimina un empleado de la base de datos.
     }
 
     public static function modificarEmpleado()
     {
-
+        // Modifica los datos de un empleado de la base de datos.
     }
 }
 
