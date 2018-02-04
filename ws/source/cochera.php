@@ -7,6 +7,7 @@ class cochera
     /* CAMPOS */
     public $id;
     public $especial;
+    public $ocupada; // True ocupada - False desocupada.
 
     public static function cocheraLibre($auto)
     {
