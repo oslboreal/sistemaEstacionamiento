@@ -14,6 +14,14 @@ class Config
         // Método encargado de traer todos los datos de configuracion del sistema. 
         // Pega a la base de datos y carga los campos, que luego serán consultados para facturar o encontrar espacio.
     }
+
+    public static function cargarDatos()
+    {
+        // Trae la información de configuración del estacionamiento de la base de datos.
+    }
+
+    // Se le podría agregar. 
+    // Modificar cada uno de los parámetros y actualizar llamando nuevamente a cargar datos. 
 }
 
 ?>
