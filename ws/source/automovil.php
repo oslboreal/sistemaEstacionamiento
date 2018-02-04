@@ -22,5 +22,10 @@ class Automovil
         $this->color = $col;
         $this->marca = $mar;
     }
+
+    /* METODOS INTERNOS */
+
+
+    /* METODOS EXTERNOS - WS */
 }
 ?>
