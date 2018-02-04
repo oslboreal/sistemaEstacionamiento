@@ -1,7 +1,7 @@
 <?php
 
 /* La clase config es aquella que es empleada para obtener las configuraciones del sistema desde la base de datos. */
-
+require_once 'accesoDatos.php';
 class Config 
 {
     static public $costoHora;

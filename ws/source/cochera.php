@@ -1,7 +1,7 @@
 <?php
 
 /* La clase cochera se emplea para almacenar los Automoviles */
-
+require_once 'accesoDatos.php';
 class cochera
 {
     /* CAMPOS */

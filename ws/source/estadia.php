@@ -1,7 +1,7 @@
 <?php
 
 /* Esta clase es empleada para calcular el tiempo que un vehiculo lleva estacionado */
-
+require_once 'accesoDatos.php';
 class Estadia
 {
     /* CAMPOS */

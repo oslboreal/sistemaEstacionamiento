@@ -6,6 +6,7 @@
         De modo que a la hora de consultar un registro se lo pueda asociar con un Automovil rápidamente sin tener
         que realizar una consulta en cualquier otra tabla. 
 */
+require_once 'accesoDatos.php';
 class Automovil
 {
     /* CAMPOS. */

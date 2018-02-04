@@ -1,7 +1,7 @@
 <?php
 
 /* Clase registro, se empleará para registrar el ingreso o la salida de un vehiculo. */
-
+require_once 'accesoDatos.php';
 class Registro
 {
     /* CAMPOS */

@@ -8,6 +8,7 @@
 
 // Llamada a las bibliotecas necesarias. 
 require_once '../vendor/autoload.php';
+require_once 'clases.php'; // Llamamos a todas las clases.
 // Interfaces.
 use \Psr\Http\Message\ServerRequestInterface as Request;
 use \Psr\Http\Message\ResponseInterface as Response;
@@ -19,6 +20,8 @@ $app->get('/', function (Request $request, Response $response) {
     $response->getBody()->write("Bienvenido a el indice de Web services, consulte la documentación de la API.");
     return $response;
 });
+
+
 
 $app->run();
 
