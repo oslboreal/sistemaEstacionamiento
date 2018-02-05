@@ -31,6 +31,18 @@ class Empleado
     public static function altaEmpleado($empleado)
     {
         // Recibe un empleado y lo carga en la base de datos.
+        try
+        {
+            $datos = AccesoDatos::dameUnObjetoAcceso();
+            // ($id, $usuario, $estado, $password, $ultimoInicio, $rol)
+            $consulta =$datos->RetornarConsulta("INSERT into empleados (usuario, estado, password, ultimoinicio, rol)".
+            "values('$this->usuario','$this->estado', '$this->password' , '$this->ultimoInicio', '$this->rol')");
+            $consulta->execute();
+            return $datos->RetornarUltimoIdInsertado();
+        }catch(Exception $e)
+        {
+            echo 'Excepción capturada - Error guardando datos del empleado: ',  $e->getMessage(), "\n";
+        }    
     }
 
     public function bajaEmpleado()
