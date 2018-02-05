@@ -8,7 +8,7 @@
 
 // Llamada a las bibliotecas necesarias. 
 require_once '../vendor/autoload.php';
-require_once 'clases.php'; // Llamamos a todas las clases.
+require_once 'libs.php';
 // Interfaces.
 use \Psr\Http\Message\ServerRequestInterface as Request;
 use \Psr\Http\Message\ResponseInterface as Response;
