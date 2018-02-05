@@ -28,24 +28,41 @@ class Empleado
 
 
     /* METODOS INTERNOS - HERRAMIENTAS */
+    public static function altaEmpleado($empleado)
+    {
+        // Recibe un empleado y lo carga en la base de datos.
+    }
 
+    public function bajaEmpleado()
+    {
+        // Este método desprecia cualquier campo que no sea el ID. 
+        // Básicamente realiza una baja del Empleado que tenga el id ingresado. 
+    }
+
+    public function borrarEmpleado()
+    {
+        // Este método desprecia cualquier campo que no sea el ID. 
+        // Básicamente borra el registro en la base de datos que tenga el id ingresado. 
+    }
+
+    public function modificarEmpleado()
+    {
+        // Este método busca en la base de datos el empleado que tenga el id ingresado
+        // Y reemplaza todos sus campos por los cargados actualmente en la instancia. 
+    }
+
+    public static function traerEmpleados()
+    {
+        // Trae una lista de los empleados, la misma luego podrá ser filtrada en los métodos externos.
+    }
+
+    public static function traerEmpleadoId()
+    {
+        // Este método utiliza el método traerEmpleados() y luego lo filtra.
+    }
 
     /* METODOS EXTERNOS - WS */
 
-    public static function altaEmpleado()
-    {
-        // Agrega empleado a la base de datos. 
-    }
-
-    public static function bajaEmpleado()
-    {
-        // Elimina un empleado de la base de datos.
-    }
-
-    public static function modificarEmpleado()
-    {
-        // Modifica los datos de un empleado de la base de datos.
-    }
 }
 
 
