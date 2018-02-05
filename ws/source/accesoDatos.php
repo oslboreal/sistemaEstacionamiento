@@ -7,7 +7,7 @@ class AccesoDatos
     {
         try { 
             // Aqui se ingresan los datos de conexión: HOST, DBNAME, USER, PASS
-            $this->objetoPDO = new PDO('mysql:host=localhost;dbname=estacio8_main;charset=utf8', 'estacio8_root', '', array(PDO::ATTR_EMULATE_PREPARES => false,PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));
+            $this->objetoPDO = new PDO('mysql:host=localhost;dbname=estacio8_main;charset=utf8', 'estacio8_root', 's', array(PDO::ATTR_EMULATE_PREPARES => false,PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));
             $this->objetoPDO->exec("SET CHARACTER SET utf8");
             } 
         catch (PDOException $e) { 
