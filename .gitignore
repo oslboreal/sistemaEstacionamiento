@@ -1,1 +1,2 @@
+#Ignoramos el fichero accesoDatos por que tiene datos susceptibles.
 /ws/source/accesoDatos.php
