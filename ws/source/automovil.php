@@ -25,6 +25,10 @@ class Automovil
 
     /* METODOS INTERNOS */
 
+    public static function altaAutomovil($automovil)
+    {
+
+    }
 
     /* METODOS EXTERNOS - WS */
     

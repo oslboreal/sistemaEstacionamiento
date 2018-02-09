@@ -17,25 +17,14 @@ class Empleado
     public $ultimoInicio;
     public $rol;
 
-    public function Empleado($id, $usuario, $estado, $password, $ultimoInicio, $rol)
-    {
-        $this->id = $id;
-        $this->usuario = $usuario;
-        $this->estado = $estado;
-        $this->password = $password;
-        $this->ultimoInicio = $ultimoInicio;
-    }
-
-
     /* METODOS INTERNOS - HERRAMIENTAS */
-    public static function altaEmpleado($empleado)
+    public function altaEmpleado()
     {
         // Recibe un empleado y lo carga en la base de datos.
         try
         {
             $datos = AccesoDatos::dameUnObjetoAcceso();
-            // ($id, $usuario, $estado, $password, $ultimoInicio, $rol)
-            $consulta =$datos->RetornarConsulta("INSERT into empleados (usuario, estado, password, ultimoinicio, rol)".
+            $consulta =$datos->RetornarConsulta("INSERT into empleados (usuario, estado, pass, ultimoinicio, rol)".
             "values('$this->usuario','$this->estado', '$this->password' , '$this->ultimoInicio', '$this->rol')");
             $consulta->execute();
             return $datos->RetornarUltimoIdInsertado();
@@ -45,27 +34,57 @@ class Empleado
         }    
     }
 
-    public function bajaEmpleado()
-    {
-        // Este método desprecia cualquier campo que no sea el ID. 
-        // Básicamente realiza una baja del Empleado que tenga el id ingresado. 
-    }
-
     public function borrarEmpleado()
     {
         // Este método desprecia cualquier campo que no sea el ID. 
         // Básicamente borra el registro en la base de datos que tenga el id ingresado. 
+        try
+        {
+            $datos = AccesoDatos::dameUnObjetoAcceso();
+            $consulta =$datos->RetornarConsulta("DELETE from empleados WHERE id = 2");
+            $consulta->execute();
+            return true;
+        }catch(Exception $e)
+        {
+            echo 'Excepción capturada - Error borrando el empleado: ',  $e->getMessage(), "\n";
+        }
     }
 
     public function modificarEmpleado()
     {
         // Este método busca en la base de datos el empleado que tenga el id ingresado
         // Y reemplaza todos sus campos por los cargados actualmente en la instancia. 
+       // usuario, estado, pass, ultimoinicio, rol
+        $objetoAccesoDato = AccesoDatos::dameUnObjetoAcceso(); 
+        $consulta =$objetoAccesoDato->RetornarConsulta("
+            update empleados 
+            set usuario='$this->usuario',
+            estado='$this->estado',
+            pass='$this->password',
+            ultimoinicio='$this->ultimoInicio',
+            rol='$this->rol'
+            WHERE id='$this->id'");
+        return $consulta->execute();
+    }
+
+    public function bajaEmpleado()
+    {
+        $objetoAccesoDato = AccesoDatos::dameUnObjetoAcceso(); 
+        $consulta =$objetoAccesoDato->RetornarConsulta("
+            update empleados 
+            set estado='$this->usuario',
+            WHERE id='$this->id'");
+        return $consulta->execute();
     }
 
     public static function traerEmpleados()
     {
         // Trae una lista de los empleados, la misma luego podrá ser filtrada en los métodos externos.
+        $objetoAcceso = AccesoDatos::dameUnObjetoAcceso();
+        $consulta = $objetoAcceso->RetornarConsulta("SELECT * FROM empleados");
+        $consulta->execute();
+        // Almaceno el arreglo con los registros obtenidos.
+        return $consulta->fetchAll(PDO::FETCH_CLASS,"Empleado");
     }
 
     public static function traerEmpleadoId()
@@ -74,6 +93,23 @@ class Empleado
     }
 
     /* METODOS EXTERNOS - WS */
+
+    public function ModificarUno($request, $response, $args) {
+        //$response->getBody()->write("<h1>Modificar  uno</h1>");
+        $ArrayDeParametros = $request->getParsedBody();
+       //var_dump($ArrayDeParametros);    	
+       $micd = new cd();
+       $micd->id=$ArrayDeParametros['id'];
+       $micd->titulo=$ArrayDeParametros['titulo'];
+       $micd->cantante=$ArrayDeParametros['cantante'];
+       $micd->año=$ArrayDeParametros['anio'];
+
+          $resultado =$micd->ModificarCdParametros();
+          $objDelaRespuesta= new stdclass();
+       //var_dump($resultado);
+       $objDelaRespuesta->resultado=$resultado;
+       return $response->withJson($objDelaRespuesta, 200);		
+   }
 
 }
 

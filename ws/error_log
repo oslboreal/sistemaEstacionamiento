@@ -1,0 +1,649 @@
+[05-Feb-2018 00:24:44 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::altaEmpleado(), called in /home/estacio8/public_html/ws/index.php on line 22 and defined in /home/estacio8/public_html/ws/source/empleado.php on line 33
+[05-Feb-2018 00:25:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::altaEmpleado(), called in /home/estacio8/public_html/ws/index.php on line 22 and defined in /home/estacio8/public_html/ws/source/empleado.php on line 33
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:30:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoId in /home/estacio8/public_html/ws/index.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoId in /home/estacio8/public_html/ws/index.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:16 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoId in /home/estacio8/public_html/ws/index.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 1 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 2 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 3 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 4 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 5 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Warning:  Missing argument 6 for Empleado::Empleado() in /home/estacio8/public_html/ws/source/empleado.php on line 20
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in /home/estacio8/public_html/ws/source/empleado.php on line 22
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: usuario in /home/estacio8/public_html/ws/source/empleado.php on line 23
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: estado in /home/estacio8/public_html/ws/source/empleado.php on line 24
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: password in /home/estacio8/public_html/ws/source/empleado.php on line 25
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoInicio in /home/estacio8/public_html/ws/source/empleado.php on line 26
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: rol in /home/estacio8/public_html/ws/source/empleado.php on line 27
+[05-Feb-2018 13:33:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoId in /home/estacio8/public_html/ws/index.php on line 24
+[05-Feb-2018 15:07:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoId in /home/estacio8/public_html/ws/index.php on line 24
+[05-Feb-2018 15:09:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoId in /home/estacio8/public_html/ws/index.php on line 25
+[05-Feb-2018 15:09:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoId in /home/estacio8/public_html/ws/index.php on line 25
+[05-Feb-2018 15:10:41 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:10:44 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:10:47 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:11:15 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:11:18 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:11:25 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:12:12 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:12:13 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:12:19 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:14:17 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:15:45 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:17:27 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:19:35 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home/estacio8/public_html/ws/source/empleado.php on line 51
+[05-Feb-2018 15:20:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoId in /home/estacio8/public_html/ws/index.php on line 23
+[05-Feb-2018 15:21:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoId in /home/estacio8/public_html/ws/index.php on line 24
+[05-Feb-2018 17:30:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: ultimoId in /home/estacio8/public_html/ws/index.php on line 24
